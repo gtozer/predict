@@ -63,7 +63,7 @@ glmOutAll %>%
 ```
 
 ```{r}
-#How to run k-fold cross validation (alternatively, you can use in the pipe too!):
+#How to run k-fold cross validation (alternatively, you can use it in the pipe too!):
 #Data: Portuguese Bank
 
 set.seed(2020)
@@ -79,7 +79,7 @@ fitLogCV$results
 ```
 
 ```{r}
-#How to run LOOCV cross validation (alternatively, you can use in the pipe too!):
+#How to run LOOCV cross validation (alternatively, you can use it in the pipe too!):
 #Data: Portuguese Bank
 
 set.seed(2020)
