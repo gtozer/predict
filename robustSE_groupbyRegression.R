@@ -19,4 +19,3 @@ dfwTrain %>%
   filter(term == 'Temperature')
 
 ```
-
