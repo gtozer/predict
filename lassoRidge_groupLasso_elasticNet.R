@@ -135,4 +135,3 @@ resultsElasticNet %>%
   confusionMatrix(positive = '1')
 
 ```
-
